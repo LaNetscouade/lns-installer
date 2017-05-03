@@ -1,0 +1,38 @@
+{
+  "name": "lanetscouade/lns-installer",
+  "description": "LNS installer",
+  "type": "drupal-profile",
+  "authors": [
+    {
+      "name": "Thibault Pierre (@T1l3)",
+      "email": "thibault.pierre@lanetscouade.com",
+      "role": "Maintainer"
+    }
+  ],
+  "repositories": [
+    {
+      "type": "composer",
+      "url": "https://packages.drupal.org/8"
+    }
+  ],
+  "minimum-stability": "dev",
+  "prefer-stable": true,
+  "require": {
+    "drupal/metatag": "1.0-beta12",
+    "drupal/pathauto": "1.0",
+    "drupal/Browsersync": "1.0-beta1",
+    "drupal/adminimal_admin_toolbar": "^1.3",
+    "drupal/adminimal_theme": "^1.2",
+    "drupal/cookieconsent": "1.0",
+    "drupal/devel": "^1.0@alpha",
+    "drupal/imce": "^1.0",
+    "drupal/advagg": "^2.0",
+    "drupal/fast_404": "1.0-alpha2",
+    "drupal/simple_sitemap": "^2.0",
+    "drupal/webform": "5.0-beta12",
+    "drupal/seckit": "^1.0@alpha"
+  },
+  "replace": {
+      "drupal/drupal": "*"
+  }
+}

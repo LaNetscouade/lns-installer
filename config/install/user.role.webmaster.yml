@@ -1,0 +1,22 @@
+langcode: fr
+status: true
+dependencies: {  }
+id: webmaster
+label: Webmaster
+weight: 2
+is_admin: null
+permissions:
+  - 'access administration pages'
+  - 'access in-place editing'
+  - 'access site in maintenance mode'
+  - 'access toolbar'
+  - 'access user profiles'
+  - 'access webform overview'
+  - 'administer menu'
+  - 'administer taxonomy'
+  - 'administer webform submission'
+  - 'create url aliases'
+  - 'use text format html_complet'
+  - 'view any webform submission'
+  - 'view own webform submission'
+  - 'view the administration theme'
