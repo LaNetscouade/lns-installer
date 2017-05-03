@@ -1,6 +1,10 @@
 # LNS Installer
 
-Add somes features to the standard drupal 8 installation profile.
+Add somes features to the standard Drupal 8 installation profile.
+
+## Installation
+
+`composer require lanetscouade/lns-installer`
 
 ## Features
 
