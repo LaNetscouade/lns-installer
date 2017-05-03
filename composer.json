@@ -9,14 +9,6 @@
       "role": "Maintainer"
     }
   ],
-  "repositories": [
-    {
-      "type": "composer",
-      "url": "https://packages.drupal.org/8"
-    }
-  ],
-  "minimum-stability": "dev",
-  "prefer-stable": true,
   "require": {
     "drupal/metatag": "1.0-beta12",
     "drupal/pathauto": "1.0",
@@ -31,8 +23,5 @@
     "drupal/simple_sitemap": "^2.0",
     "drupal/webform": "5.0-beta12",
     "drupal/seckit": "^1.0@alpha"
-  },
-  "replace": {
-      "drupal/drupal": "*"
   }
 }
