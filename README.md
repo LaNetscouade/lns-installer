@@ -8,9 +8,6 @@ Add somes features to the standard Drupal 8 installation profile.
 
 ## Features
 
-lang:
-  - fr
-
 roles:
   - webmaster
 

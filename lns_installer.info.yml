@@ -17,7 +17,7 @@ distribution:
   # institutions in a certain country) but also site-specific installation
   # profiles. Note that this language code will also be used when installing
   # the site via Drush.
-  langcode: fr
+  # langcode: fr
 
 dependencies:
   - node
