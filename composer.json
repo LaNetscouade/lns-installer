@@ -21,7 +21,7 @@
     "drupal/advagg": "^2.0",
     "drupal/fast_404": "1.0-alpha2",
     "drupal/simple_sitemap": "^2.0",
-    "drupal/webform": "5.0-beta12",
+    "drupal/webform": "^5.0",
     "drupal/seckit": "^1.0@alpha"
   }
 }
