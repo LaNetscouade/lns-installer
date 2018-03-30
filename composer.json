@@ -11,7 +11,7 @@
   ],
   "require": {
     "drupal/metatag": "^1.4",
-    "drupal/pathauto": "1.0",
+    "drupal/pathauto": "1.0.0",
     "drupal/browsersync": "1.0-beta1",
     "drupal/adminimal_admin_toolbar": "^1.5",
     "drupal/adminimal_theme": "^1.3",
